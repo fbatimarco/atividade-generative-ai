@@ -4,7 +4,7 @@
 
 * **RA:** 2501761
 
-* **GitRepo** https://github.com/ltsanches/trabalho-iac
+* **GitRepo** https://github.com/fbatimarco/atividade-generative-ai
 
 * **Objetivo:** Criar 3 versões evolutivas de um prompt para análise automática de Pull Requests.
 
